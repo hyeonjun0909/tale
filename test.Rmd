@@ -2,7 +2,7 @@
 layout: post
 title: "Test"
 author: "Jun"
-date: "2019년 8월 17일"
+date: "2019-8-17"
 output: html_document
 ---
 
