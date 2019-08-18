@@ -1,9 +1,7 @@
 ---
-layout: post
-title: "Test"
+title: "erffe"
 author: "Jun"
-date: "2019-8-17"
-output: html_document
+layout: post
 ---
 
 ```{r setup, include=FALSE}
