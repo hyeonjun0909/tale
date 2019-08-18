@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Introducing Tale"
-subtitle: "Is is possible to put a subtitle?
 author: "Chester"
 ---
 
